@@ -12,6 +12,8 @@ NEIMovies é uma aplicação completa de filmes consumindo a API TMDB.
 * themoviedb
 * Axios
 
+Link youtube explicando a aplicação: https://youtu.be/WredYV6Hrgk
+
 ## Project setup
 ```
 npm install
