@@ -1,4 +1,4 @@
-# movie
+# NEImovies
 
 ## Project setup
 ```
