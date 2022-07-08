@@ -1,4 +1,4 @@
-# NEImovies
+# NEI Movies
 
 NEIMovies é uma aplicação completa de filmes consumindo a API TMDB.
 
