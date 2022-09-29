@@ -1,6 +1,6 @@
 # NEI Movies
 
-NEIMovies é uma aplicação completa de filmes consumindo a API TMDB.
+NEIMovies é uma aplicação completa de filmes consumindo a API TMDB. <br>
 Deploy: https://neimovies.vercel.app/
 
 ### Ferramentas utilizadas
